@@ -25,7 +25,6 @@ const styles = {
     WebkitTransition: '-webkit-transform .3s ease-out',
     WebkitTransform: 'translateX(-100%)',
     willChange: 'transform',
-    backgroundColor: 'white',
     overflowY: 'auto',
   },
   content: {
